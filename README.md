@@ -2,7 +2,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
  <div>
    <a href="https://github.com/cr1p3l1"></a>
-   <img height="180em" src="https://github.com/cr1p3l1/main/blob/main/Eu.png"/><br>
   <ul>
       <li>Eu sou Cristiano Lima</li>
       <li>Estudando Análise e Desenvolvimento de Sistemas</li>
@@ -31,7 +30,13 @@
   <img align="center" alt="Ilustrator" height="30" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   <img align="center" alt="Ilustrator" height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
- 
+
+<div style="display: inline_block"><br>
+<h3> Redes Sociais:</h3>
+  <a href="https://www.linkedin.com/in/cristianoplima/" alt="Meu perfil do LinkedIn" target="_blank"><img align="center" alt="Linkedi" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.instagram.com/in/cripeli/" alt="Meu perfil do Instagram" target="_blank"><img align="center" alt="Linkedi" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+</div>
  <br>
 
 </div>
