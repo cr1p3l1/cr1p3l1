@@ -9,7 +9,12 @@
    </ul>
       
 </div>
-<div style="display: inline_block">
+<div>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cr1p3l1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr1p3l1&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div><div style="display: inline_block">
 <h3> Linguagens:</h3>
   <img align="center" alt="HTML5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
