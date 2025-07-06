@@ -3,8 +3,7 @@
  <div>
    <a href="https://github.com/cr1p3l1"></a>
   <ul>
-      <li>Eu sou Cristiano Lima</li>
-      <li>Estudando Análise e Desenvolvimento de Sistemas</li>
+      <li>Eu sou Cristiano Lima, Instrutor, Palestrante, Revisor/Conteudista, Fotógrafo, Web Designer. Uso as tecnologias HTML5, CSS3, Java Script, PHP, MySQL, Wordpress, Elementor, Jetengine, Woocommerce, Shopify</li>
       <li>Entusiasta de tecnologia e sempre em busca de aprender mais</li>
    </ul>
       
